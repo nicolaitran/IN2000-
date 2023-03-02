@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">nntran_oblig2</string>
+    <string name="d1">Valgdistrikt 1</string>
+    <string name="d2">Valgdistrikt 2</string>
+    <string name="d3">Valgdistrikt 3</string>
+    <string name="alle">Alle stemmene samlet</string>
+    <string name="bildetekst">Bilde av alpacaleder</string>
+
+
+    <string-array name="ValgListe">
+        <item>Valgdistrikt 1</item>
+        <item>Valgdistrikt 2</item>
+        <item>Valgdistrikt 3</item>
+        <item>Alle stemmene samlet</item>
+    </string-array>
+</resources>
+
